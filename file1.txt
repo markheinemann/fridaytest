@@ -6,3 +6,5 @@ first line
 5th line
 
 new feature 1
+
+new feature 2
