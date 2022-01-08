@@ -1,8 +1,6 @@
 first line
 
-<<<<<<< HEAD
 
-=======
 2nd line
 
 
@@ -11,7 +9,6 @@ add new line
 3rd line
 4th line
 5th line
->>>>>>> feature
 
 new feature 1
 
@@ -26,4 +23,4 @@ gathering and broadcasting of news and current affairs. Wikipedia
 
 
  add new line 
-new feature 5 chnaged
+new feature 5 chnagedgit status
