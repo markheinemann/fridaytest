@@ -24,3 +24,6 @@ gathering and broadcasting of news and current affairs. Wikipedia
 
  add new line 
 new feature 5 chnagedgit status
+
+added some more text to last line of file on friday
+more more more
