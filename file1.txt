@@ -27,3 +27,4 @@ new feature 5 chnagedgit status
 add lione here
 
 add new line on tuesday - modified
+add another new tuesday line - modified it !
